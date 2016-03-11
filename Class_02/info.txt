@@ -1,0 +1,29 @@
+tipo de material
+grão não orientado (motores)
+perdas maiores
+
+grão orientado (trafo)
+
+Lam fill factor
+em um trafo aprox .95
+
+Procedimento:
+
+Operate on nodes (Condutores e região)
+
+Materials library (Air Copper)
+
+Operate on block labels
+
+Definir propriedade do segmento (boundary)
+
+Definir propriedade do circuito
+
+Atribuir materiais e circuito
+
+Run Mesh Generator Icon -> Criar a malha (ícone amarelo)
+
+Run Analysis icon
+
+View Results icon
+  Vector plot options (Type, scalling factor)
