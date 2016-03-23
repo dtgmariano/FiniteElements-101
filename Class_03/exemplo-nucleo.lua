@@ -8,7 +8,7 @@ mi_addblocklabel(4.5,2)
 mi_selectlabel(4.5,2)
 
 dAlfa = 0.7
-mi_zoomnatural()
+mi_zoomnatural()/
 mi_savebitmap("layout.bmp")
 open("Exemplo.fem")
 
