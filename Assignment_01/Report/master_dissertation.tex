@@ -1,0 +1,89 @@
+%File: main.tex
+%Description: Main File of Master thesis
+%Date: 11/12/2012
+%Autor: Fábio Henrique
+%Alterado por: Andrei Nakagawa
+%Last modification: 23 Sep 2015
+%===================================================================================================
+
+\documentclass[a4paper, 12pt]{report}
+\usepackage[top=3cm,left=3cm,right=2cm,bottom=2cm]{geometry}    %Page`s geometry
+\renewcommand{\baselinestretch}{1.5}                            %Line spacing
+
+%\pdfminorversion=5                                              %A way to create smaller documents with pdf(La)TeX is to use.
+%\pdfobjcompresslevel=3                                          %This will generally produce considerably smaller files
+%\pdfcompresslevel=9                                             %but it requires pdf version 1.5 and might not be readable by old pdf-viewers.
+
+\usepackage{fixltx2e}
+\usepackage[brazil]{babel}                                      %Set language package
+\usepackage[utf8]{inputenx}                                     %Text encoding
+\usepackage[T1]{fontenc}                                        %Output encoding
+\usepackage{graphicx}                                           %Figures and stuff
+\usepackage{float}                                              %Places the float at precisely the location in the LaTeX code
+%\usepackage{subfig}                                            %Include subfigures
+%\captionsetup[subfigure]{margin=10pt}                          %
+\usepackage{subfigure}                                          %
+\usepackage{amsmath}                                            %Math packet
+\usepackage{lastpage}                                           %Enables to make reference anywhere in your text to the label LastPage
+\usepackage{indentfirst}                                        %Indent first paragraph of section
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{config}                                             %Config file with variables, and algorithm terms translation
+\usepackage{breakcites}                                         %En­sure that mul­ti­ple ci­ta­tions may break at line end
+%\usepackage{setspace}                                           %To change line spacing in specific environments
+\usepackage{multirow}                                           %Packages
+\usepackage{tabularx}                                           %for
+\usepackage{colortbl}                                           %
+\usepackage{threeparttable}                                     %table
+\usepackage{longtable}
+\usepackage{rotating}
+\usepackage{textgreek}
+\usepackage{fixltx2e}
+%\usepackage[numbers,sort]{natbib}
+%Package for ordering the 	citations by order of citation
+\usepackage[numbers,sort&compress]{natbib}
+
+\usepackage[portuguese]{nomencl}                                %Create nomenclature in Portuguese
+\usepackage{nomencl}                                            %Create nomenclature in English
+\makenomenclature
+\renewcommand{\nomname}{Lista de Abreviaturas e Siglas}         %Rename nomenclature
+
+\usepackage{url}                                                %Package to insert URLs
+\usepackage[pdftex,                                             %This package creates hiperlinks
+  bookmarks=true,
+  bookmarksnumbered=true]{hyperref}
+\hypersetup{
+  colorlinks,%                                                  %This set how the link will be presented
+  citecolor=black,%                                             %Set the color of the links
+  filecolor=black,%                                             %Set to black to get a good press of the doc
+  linkcolor=black,%
+  urlcolor=black,
+  pdfauthor = {John Doe}, %Nome do autor
+  pdftitle = {Report},
+  pdfkeywords = {R},
+  pdfsubject = {Report},
+  pdfcreator = {John Doe},
+  pdfproducer = {JohnDoe}
+}
+
+\usepackage{pbox}
+\usepackage{fancyhdr}  %Macro package allows you to customize in LATEX your page headers and footers in an easy way
+%\setlength{\headheight}{15pt}
+
+\usepackage{pdflscape} %Landscape in Latex, make appear the left side up, better readable on screen
+
+\renewcommand{\rmdefault}{phv}                                  %Changing text font
+\usepackage{my_hyphenation}                                     %Personal hyphenation dictionary
+
+
+\newcommand{\yes}{{\includegraphics [scale=0.055]{img/yes}}}     %Definindo comandos para figuras yes and no
+\newcommand{\no}{{\includegraphics [scale=0.055]{img/no}}}       %
+%\newcommand{\alert}{{\includegraphics [scale=0.3]{img/alert}}}
+
+\makeatletter
+%===================================================================================================
+
+
+\begin{document}
+\input document
+\end{document}

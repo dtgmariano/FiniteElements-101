@@ -1,0 +1,277 @@
+InfoKey: Author
+InfoValue: Fábio Henrique M. Oliveira
+InfoKey: Creator
+InfoValue: Fábio Henrique
+InfoKey: Title
+InfoValue: Uso de Interfaces Naturais na modelagem de objetos virtuais
+InfoKey: Subject
+InfoValue: Dissertação de mestrado
+InfoKey: Keywords
+InfoValue: Interface Natural, Computação Ubíqua, Sensor de Profundidade, Modelagem 3D
+InfoKey: Producer
+InfoValue: GPL Ghostscript 9.05
+InfoKey: ModDate
+InfoValue: D:20130920220656-03'00'
+InfoKey: CreationDate
+InfoValue: D:20130920220656-03'00'
+PdfID0: 7351e3b7e257da661d7eb6b550f6b997
+PdfID1: 7351e3b7e257da661d7eb6b550f6b997
+NumberOfPages: 100
+BookmarkTitle: Lista de Figuras
+BookmarkLevel: 1
+BookmarkPageNumber: 13
+BookmarkTitle: Lista de Tabelas e Quadros
+BookmarkLevel: 1
+BookmarkPageNumber: 15
+BookmarkTitle: Lista de Abreviaturas e Siglas
+BookmarkLevel: 1
+BookmarkPageNumber: 16
+BookmarkTitle: 1 Introdução
+BookmarkLevel: 1
+BookmarkPageNumber: 18
+BookmarkTitle: 1.1 Motivação
+BookmarkLevel: 2
+BookmarkPageNumber: 18
+BookmarkTitle: 1.2 Objetivos e metas
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkTitle: 1.3 Estrutura da Dissertação
+BookmarkLevel: 2
+BookmarkPageNumber: 20
+BookmarkTitle: 2 Fundamentos
+BookmarkLevel: 1
+BookmarkPageNumber: 22
+BookmarkTitle: 2.1 Introdução
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkTitle: 2.2 Interação Humano-Computador
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkTitle: 2.2.1 Tipos de interação
+BookmarkLevel: 3
+BookmarkPageNumber: 23
+BookmarkTitle: 2.2.1.1 Interação de dados
+BookmarkLevel: 4
+BookmarkPageNumber: 23
+BookmarkTitle: 2.2.1.2 Interação por imagem
+BookmarkLevel: 4
+BookmarkPageNumber: 23
+BookmarkTitle: 2.2.1.3 Interação por voz
+BookmarkLevel: 4
+BookmarkPageNumber: 24
+BookmarkTitle: 2.2.1.4 Interação inteligente
+BookmarkLevel: 4
+BookmarkPageNumber: 24
+BookmarkTitle: 2.2.2 Evolução das interfaces com o usuário
+BookmarkLevel: 3
+BookmarkPageNumber: 24
+BookmarkTitle: 2.2.2.1 Interface por linha de comando
+BookmarkLevel: 4
+BookmarkPageNumber: 25
+BookmarkTitle: 2.2.2.2 Interface gráfica
+BookmarkLevel: 4
+BookmarkPageNumber: 25
+BookmarkTitle: 2.2.2.3 Interface natural
+BookmarkLevel: 4
+BookmarkPageNumber: 26
+BookmarkTitle: 2.3 Dispositivos para suporte de Interfaces Naturais
+BookmarkLevel: 2
+BookmarkPageNumber: 27
+BookmarkTitle: 2.3.1 Nintendo® Wii Remote™
+BookmarkLevel: 3
+BookmarkPageNumber: 27
+BookmarkTitle: 2.3.2 PlayStation® Move
+BookmarkLevel: 3
+BookmarkPageNumber: 29
+BookmarkTitle: 2.3.3 Microsoft® Kinect™
+BookmarkLevel: 3
+BookmarkPageNumber: 30
+BookmarkTitle: 2.3.3.1 Sobre o hardware
+BookmarkLevel: 4
+BookmarkPageNumber: 31
+BookmarkTitle: 2.3.3.2 Sobre o software
+BookmarkLevel: 4
+BookmarkPageNumber: 32
+BookmarkTitle: 2.3.4 Outros dispositivos
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkTitle: 2.4 Ferramentas para manipulação de sensores de profundidade de baixo custo
+BookmarkLevel: 2
+BookmarkPageNumber: 34
+BookmarkTitle: 2.4.1 OpenKinect
+BookmarkLevel: 3
+BookmarkPageNumber: 34
+BookmarkTitle: 2.4.2 OpenNI®
+BookmarkLevel: 3
+BookmarkPageNumber: 35
+BookmarkTitle: 2.4.2.1 NITE™
+BookmarkLevel: 4
+BookmarkPageNumber: 35
+BookmarkTitle: 2.4.3 Microsoft® Kinect™ for Windows® SDK
+BookmarkLevel: 3
+BookmarkPageNumber: 37
+BookmarkTitle: 2.4.4 Resumo comparativo
+BookmarkLevel: 3
+BookmarkPageNumber: 37
+BookmarkTitle: 2.5 Considerações finais
+BookmarkLevel: 2
+BookmarkPageNumber: 38
+BookmarkTitle: 3 Trabalhos Correlatos
+BookmarkLevel: 1
+BookmarkPageNumber: 39
+BookmarkTitle: 3.1 Introdução
+BookmarkLevel: 2
+BookmarkPageNumber: 39
+BookmarkTitle: 3.2 Manipulação de objetos 3D em aplicações de RA por meio da movimentação da mão
+BookmarkLevel: 2
+BookmarkPageNumber: 39
+BookmarkTitle: 3.3 Fusion4D - Interface natural e imersiva para manipulação de objetos 3D
+BookmarkLevel: 2
+BookmarkPageNumber: 41
+BookmarkTitle: 3.4 Non-contact multi-hand gestures interaction techniques for architectural design in a Virtual Environment
+BookmarkLevel: 2
+BookmarkPageNumber: 42
+BookmarkTitle: 3.5 Bimanual Natural User Interaction for 3D modelling application using stereo computer vision
+BookmarkLevel: 2
+BookmarkPageNumber: 45
+BookmarkTitle: 3.6 Resumo comparativo dos trabalhos analisados
+BookmarkLevel: 2
+BookmarkPageNumber: 47
+BookmarkTitle: 3.7 Considerações finais
+BookmarkLevel: 2
+BookmarkPageNumber: 49
+BookmarkTitle: 4 Especificação do sistema proposto
+BookmarkLevel: 1
+BookmarkPageNumber: 50
+BookmarkTitle: 4.1 Introdução
+BookmarkLevel: 2
+BookmarkPageNumber: 50
+BookmarkTitle: 4.2 Requisitos do sistema
+BookmarkLevel: 2
+BookmarkPageNumber: 50
+BookmarkTitle: 4.3 Diagramas de casos de uso
+BookmarkLevel: 2
+BookmarkPageNumber: 50
+BookmarkTitle: 4.4 Diagrama de classes
+BookmarkLevel: 2
+BookmarkPageNumber: 57
+BookmarkTitle: 4.5 Arquitetura do sistema
+BookmarkLevel: 2
+BookmarkPageNumber: 58
+BookmarkTitle: 4.6 Considerações finais
+BookmarkLevel: 2
+BookmarkPageNumber: 59
+BookmarkTitle: 5 Detalhes da implementação
+BookmarkLevel: 1
+BookmarkPageNumber: 60
+BookmarkTitle: 5.1 Introdução
+BookmarkLevel: 2
+BookmarkPageNumber: 60
+BookmarkTitle: 5.1.1 Tecnologias de apoio
+BookmarkLevel: 3
+BookmarkPageNumber: 60
+BookmarkTitle: 5.2 Ambiente de desenvolvimento
+BookmarkLevel: 2
+BookmarkPageNumber: 61
+BookmarkTitle: 5.3 Processo de desenvolvimento
+BookmarkLevel: 2
+BookmarkPageNumber: 61
+BookmarkTitle: 5.3.1 Captura de imagens
+BookmarkLevel: 3
+BookmarkPageNumber: 62
+BookmarkTitle: 5.3.2 Determinação de gestos
+BookmarkLevel: 3
+BookmarkPageNumber: 62
+BookmarkTitle: 5.3.3 Comunicação com o Blender
+BookmarkLevel: 3
+BookmarkPageNumber: 64
+BookmarkTitle: 5.3.4 Processamento em tempo real
+BookmarkLevel: 3
+BookmarkPageNumber: 64
+BookmarkTitle: 5.3.4.1 Receptor
+BookmarkLevel: 4
+BookmarkPageNumber: 65
+BookmarkTitle: 5.3.4.2 Processador
+BookmarkLevel: 4
+BookmarkPageNumber: 65
+BookmarkTitle: 5.3.4.3 Consumidor
+BookmarkLevel: 4
+BookmarkPageNumber: 66
+BookmarkTitle: 5.4 Blender operator
+BookmarkLevel: 2
+BookmarkPageNumber: 66
+BookmarkTitle: 5.4.1 Mapeamento do sistema de coordenadas
+BookmarkLevel: 3
+BookmarkPageNumber: 67
+BookmarkTitle: 5.4.2 Processo de interação
+BookmarkLevel: 3
+BookmarkPageNumber: 68
+BookmarkTitle: 5.4.2.1 Metáfora de interação e seus parâmetros
+BookmarkLevel: 4
+BookmarkPageNumber: 69
+BookmarkTitle: 5.4.2.2 Navegação
+BookmarkLevel: 4
+BookmarkPageNumber: 69
+BookmarkTitle: 5.4.2.3 Seleção
+BookmarkLevel: 4
+BookmarkPageNumber: 70
+BookmarkTitle: 5.4.2.4 Manipulação
+BookmarkLevel: 4
+BookmarkPageNumber: 71
+BookmarkTitle: 5.5 Considerações finais
+BookmarkLevel: 2
+BookmarkPageNumber: 71
+BookmarkTitle: 6 Discussão dos resultados
+BookmarkLevel: 1
+BookmarkPageNumber: 72
+BookmarkTitle: 6.1 Introdução
+BookmarkLevel: 2
+BookmarkPageNumber: 72
+BookmarkTitle: 6.2 Protótipo
+BookmarkLevel: 2
+BookmarkPageNumber: 72
+BookmarkTitle: 6.3 Avaliação da interface
+BookmarkLevel: 2
+BookmarkPageNumber: 72
+BookmarkTitle: 6.3.1 Avaliação heurística
+BookmarkLevel: 3
+BookmarkPageNumber: 73
+BookmarkTitle: 6.3.2 Etapas de um teste
+BookmarkLevel: 3
+BookmarkPageNumber: 73
+BookmarkTitle: 6.3.3 Medidas de performance
+BookmarkLevel: 3
+BookmarkPageNumber: 75
+BookmarkTitle: 6.4 Experimentos
+BookmarkLevel: 2
+BookmarkPageNumber: 76
+BookmarkTitle: 6.4.1 Primeira etapa
+BookmarkLevel: 3
+BookmarkPageNumber: 76
+BookmarkTitle: 6.4.2 Segunda etapa
+BookmarkLevel: 3
+BookmarkPageNumber: 77
+BookmarkTitle: 6.5 Análise dos resultados
+BookmarkLevel: 2
+BookmarkPageNumber: 79
+BookmarkTitle: 6.6 Considerações Finais
+BookmarkLevel: 2
+BookmarkPageNumber: 81
+BookmarkTitle: 7 Conclusões e trabalhos futuros
+BookmarkLevel: 1
+BookmarkPageNumber: 83
+BookmarkTitle: 7.1 Introdução
+BookmarkLevel: 2
+BookmarkPageNumber: 83
+BookmarkTitle: 7.2 Considerações finais
+BookmarkLevel: 2
+BookmarkPageNumber: 83
+BookmarkTitle: 7.3 Trabalhos futuros
+BookmarkLevel: 2
+BookmarkPageNumber: 85
+BookmarkTitle: Referências Bibliográficas
+BookmarkLevel: 1
+BookmarkPageNumber: 85
+BookmarkTitle: A Manual do Usuário - NI2Blender
+BookmarkLevel: 1
+BookmarkPageNumber: 93
