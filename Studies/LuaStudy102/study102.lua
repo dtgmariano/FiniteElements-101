@@ -9,8 +9,8 @@
 --%%%%%%%%%%%%%--
 
 --function name: draw_square
---input arguments:
---output arguments:
+--input arguments: points
+--output arguments: none
 function draw_points(points)
   --Nodes
   for i=1, 4 do
@@ -33,8 +33,8 @@ function draw_points(points)
 end
 
 --function name: draw_square
---input arguments:
---output arguments:
+--input arguments: home, length
+--output arguments: none
 function draw_square(home, length)
   mi_addnode(home[1]          , home[2]         )
   mi_addnode(home[1]          , home[2] + length)
