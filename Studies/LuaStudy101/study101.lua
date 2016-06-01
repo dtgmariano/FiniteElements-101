@@ -4,7 +4,7 @@
 clearconsole()
 newdocument(0)
 mi_probdef(0,'centimeters','planar',1e-8,3,3.28,30)
-mi_saveas("Exemplo.fem")
+mi_saveas("study101.fem")
 
 --Inserindo os pontos
 mi_addnode(0,0)

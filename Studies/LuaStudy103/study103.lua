@@ -26,8 +26,13 @@ end
 function draw_inner_square()
   mi_addnode(51  ,  50)
   mi_addnode(152 ,  50)
-  mi_addnode(51  , 204)
   mi_addnode(152 , 204)
+  mi_addnode(51  , 204)
+
+  mi_addsegment( 51,  50, 152,  50)
+  mi_addsegment(152,  50, 152, 204)
+  mi_addsegment(152, 204,  51, 204)
+  mi_addsegment( 51, 204,  51,  50)
 end
 
 --%%%%%%%%%%%%%%%%--
@@ -37,7 +42,7 @@ end
 clearconsole()
 newdocument(0)
 mi_probdef(0,'centimeters','planar',1e-8,3,3.28,30)
-mi_saveas("study102.fem")
+mi_saveas("study103.fem")
 
 draw_inner_square()
 draw_outer_square()
