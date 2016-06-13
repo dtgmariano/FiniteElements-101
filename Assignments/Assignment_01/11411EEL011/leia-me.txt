@@ -1,0 +1,13 @@
+%%%%%%%%%%%%%%%%
+%Dados do aluno%
+%%%%%%%%%%%%%%%%
+Daniel Teodoro Gonçalves Mariano
+11411EEL011
+Engenharia Elétrica
+
+%%%%%%%%%%%%%%%%%%%
+%Repositório - URL%
+%%%%%%%%%%%%%%%%%%%
+Arquivos disponíveis no link:
+https://github.com/dtgmariano/FiniteElements-101/tree/master/Assignment_01
+
