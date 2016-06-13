@@ -1,0 +1,45 @@
+%File: folharosto.tex
+%Description: File that creates the ``folha de rosto''
+%Autor: Fábio Henrique
+%Alterado por: Andrei Nakagawa
+
+%===================================================================================================
+\newpage
+\thispagestyle{empty}   %Not counting in page enumeration
+\begin{center}
+{\bf \large{\@author}}
+\vskip 110pt
+{\bf \large{\@titulo}}
+\vskip 70pt
+\end{center}
+
+\hfill                                                         % put mini-page at the right side
+\begin{minipage}{12cm}
+Dissertação apresentada ao Programa de Pós-graduação em
+Engenharia Biomédica da Universidade Federal de Uberlândia,
+como parte dos requisitos para obtenção do grau de Mestre
+em Ciências.
+
+\vskip 20pt
+Área de Concentração: Processamento da Informação \\
+Linha de Pesquisa: Engenharia Biomédica
+
+\vskip 30pt
+\begin{flushleft}
+\rule{11cm}{0.2mm}
+\end{flushleft}
+\vspace{-0.5cm}
+Prof. Alcimar Barbosa Soares, PhD \\ Orientador
+\vskip 2pt
+\begin{flushleft}
+\rule{11cm}{0.2mm}
+\end{flushleft}
+Prof. Edgard Afonso Lamounier Jr, PhD \\ Coordenador do Programa de Pós-Graduação em Engenharia Biom
+\vspace{-0.5cm}
+
+\end{minipage}
+
+\vfill
+\begin{center}
+\@city \\ \@year
+\end{center}
