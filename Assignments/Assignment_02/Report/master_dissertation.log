@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.5)  13 JUN 2016 16:38
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.5)  13 JUN 2016 18:11
 entering extended mode
 **master_dissertation.tex
 
@@ -1516,7 +1516,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [19]
 (C:\GitHub\FiniteElements-101\Assignments\Assignment_02\Report\chapters/assig2/
-3_resul)
+3_resul.tex)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1525,7 +1525,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [20]
 (C:\GitHub\FiniteElements-101\Assignments\Assignment_02\Report\chapters/assig2/
-4_dico))
+4_dico.tex))
 (C:\GitHub\FiniteElements-101\Assignments\Assignment_02\Report\postextual/refer
 ences.tex
 (C:\GitHub\FiniteElements-101\Assignments\Assignment_02\Report\master_dissertat
@@ -1563,10 +1563,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 9774 strings out of 493921
- 142253 string characters out of 3144873
- 225725 words of memory out of 3000000
- 12650 multiletter control sequences out of 15000+200000
+ 9782 strings out of 493921
+ 142363 string characters out of 3144873
+ 225794 words of memory out of 3000000
+ 12657 multiletter control sequences out of 15000+200000
  33381 words of font info for 46 fonts, out of 3000000 for 9000
  891 hyphenation exceptions out of 8191
  35i,14n,43p,1609b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1584,9 +1584,9 @@ x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86
  2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/urw/symbol/usyr.pfb>
-Output written on master_dissertation.pdf (26 pages, 1306060 bytes).
+Output written on master_dissertation.pdf (26 pages, 1307421 bytes).
 PDF statistics:
- 401 PDF objects out of 1000 (max. 8388607)
- 87 named destinations out of 1000 (max. 500000)
+ 403 PDF objects out of 1000 (max. 8388607)
+ 88 named destinations out of 1000 (max. 500000)
  193 words of extra memory for PDF output out of 10000 (max. 10000000)
 
