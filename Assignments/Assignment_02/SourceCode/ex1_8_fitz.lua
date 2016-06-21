@@ -24,7 +24,9 @@ function draw_square(points)
   mi_addsegment(points[4][1], points[4][2], points[1][1], points[1][2])
 end
 
-
+--function name: draw_circle
+--input arguments: points
+--output arguments: none
 function draw_circle(points)
   for i=1, 2 do
     mi_addnode(points[i][1], points[i][2])
@@ -127,6 +129,6 @@ end
   mo_seteditmode("contour")
   mo_addcontour(circ[1][1],circ[1][2])
   mo_addcontour(circ[2][1],circ[2][2])
-  mo_makeplot(1,40000)
-  mo_makeplot(0,40000)
-  mo_makeplot(4,40000)
+  mo_makeplot(1,40000) -- 1: Plot |B|
+  mo_makeplot(0,40000) -- 0: Plot Potential
+  mo_makeplot(4,40000) -- 4: Plot |H|

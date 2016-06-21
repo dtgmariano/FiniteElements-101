@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.5)  13 JUN 2016 18:11
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.5)  21 JUN 2016 15:24
 entering extended mode
 **master_dissertation.tex
 
@@ -1082,6 +1082,9 @@ ion.aux
 
 LaTeX Warning: Label `circ_mag' multiply defined.
 
+
+LaTeX Warning: Label `circ' multiply defined.
+
 )
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
 LaTeX Font Info:    ... okay on input line 87.
@@ -1254,7 +1257,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] <img/simple_magnetic_circuit.png, id=161, 689.57625pt x 359.84438pt>
+[2] <img/simple_magnetic_circuit.png, id=163, 689.57625pt x 359.84438pt>
 File: img/simple_magnetic_circuit.png Graphic file (type png)
 
 <use img/simple_magnetic_circuit.png>
@@ -1278,13 +1281,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [4]
 (C:\GitHub\FiniteElements-101\Assignments\Assignment_02\Report\chapters/assig1/
-2_metod.tex <img/ex1_8.png, id=178, 405.76593pt x 327.47343pt>
+2_metod.tex <img/ex1_8.png, id=180, 405.76593pt x 327.47343pt>
 File: img/ex1_8.png Graphic file (type png)
 
 <use img/ex1_8.png>
 Package pdftex.def Info: img/ex1_8.png used on input line 16.
 (pdftex.def)             Requested size: 243.46143pt x 196.48558pt.
- <img/curv_magn.png, id=180, 499.11469pt x 312.41719pt>
+ <img/curv_magn.png, id=182, 499.11469pt x 312.41719pt>
 File: img/curv_magn.png Graphic file (type png)
 
 <use img/curv_magn.png>
@@ -1306,13 +1309,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[6] <img/ferram.png, id=205, 377.91188pt x 22.58438pt>
+[6] <img/ferram.png, id=207, 377.91188pt x 22.58438pt>
 File: img/ferram.png Graphic file (type png)
  <use img/ferram.png>
 Package pdftex.def Info: img/ferram.png used on input line 88.
 (pdftex.def)             Requested size: 377.91095pt x 22.5843pt.
 
-<img/circ_mag1.png, id=206, 273.27094pt x 289.08pt>
+<img/circ_mag1.png, id=208, 273.27094pt x 289.08pt>
 File: img/circ_mag1.png Graphic file (type png)
  <use img/circ_mag1.png>
 Package pdftex.def Info: img/circ_mag1.png used on input line 95.
@@ -1325,7 +1328,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [7 <C:/GitHub/FiniteElements-101/Assignments/Assignment_02/Report/img/ferram.pn
-g>] <img/circ_1.png, id=217, 229.60782pt x 283.0575pt>
+g>] <img/circ_1.png, id=219, 229.60782pt x 283.0575pt>
 File: img/circ_1.png Graphic file (type png)
  <use img/circ_1.png>
 Package pdftex.def Info: img/circ_1.png used on input line 125.
@@ -1338,7 +1341,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [8 <C:/GitHub/FiniteElements-101/Assignments/Assignment_02/Report/img/circ_mag1
-.png>] <img/circ_2.png, id=225, 210.03468pt x 262.73157pt>
+.png>] <img/circ_2.png, id=227, 210.03468pt x 262.73157pt>
 File: img/circ_2.png Graphic file (type png)
 
 <use img/circ_2.png>
@@ -1353,7 +1356,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [9 <C:/GitHub/FiniteElements-101/Assignments/Assignment_02/Report/img/circ_1.pn
 g> <C:/GitHub/FiniteElements-101/Assignments/Assignment_02/Report/img/circ_2.pn
-g>] <img/circ_mag.png, id=233, 567.62062pt x 543.53062pt>
+g>] <img/circ_mag.png, id=235, 567.62062pt x 543.53062pt>
 File: img/circ_mag.png Graphic file (type png)
 
 <use img/circ_mag.png>
@@ -1369,13 +1372,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [10 <C:/GitHub/FiniteElements-101/Assignments/Assignment_02/Report/img/circ_mag
 .png>]
 (C:\GitHub\FiniteElements-101\Assignments\Assignment_02\Report\chapters/assig1/
-3_resul.tex <img/femm_2.png, id=239, 517.18219pt x 523.20468pt>
+3_resul.tex <img/femm_2.png, id=241, 517.18219pt x 523.20468pt>
 File: img/femm_2.png Graphic file (type png)
 
 <use img/femm_2.png>
 Package pdftex.def Info: img/femm_2.png used on input line 13.
 (pdftex.def)             Requested size: 258.59045pt x 261.6017pt.
- <img/femm_4.png, id=240, 734.745pt x 530.73282pt>
+ <img/femm_4.png, id=242, 734.745pt x 530.73282pt>
 File: img/femm_4.png Graphic file (type png)
 
 <use img/femm_4.png>
@@ -1390,13 +1393,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [11 <C:/GitHub/FiniteElements-101/Assignments/Assignment_02/Report/img/femm_2.p
 ng> <C:/GitHub/FiniteElements-101/Assignments/Assignment_02/Report/img/femm_4.p
-ng>] <img/linha_1.png, id=249, 508.90125pt x 522.45187pt>
+ng>] <img/linha_1.png, id=251, 508.90125pt x 522.45187pt>
 File: img/linha_1.png Graphic file (type png)
 
 <use img/linha_1.png>
 Package pdftex.def Info: img/linha_1.png used on input line 31.
 (pdftex.def)             Requested size: 330.78189pt x 339.58969pt.
- <img/linha_B.png, id=250, 1179.65718pt x 554.82281pt>
+ <img/linha_B.png, id=252, 1179.65718pt x 554.82281pt>
 File: img/linha_B.png Graphic file (type png)
 
 <use img/linha_B.png>
@@ -1410,13 +1413,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [12 <C:/GitHub/FiniteElements-101/Assignments/Assignment_02/Report/img/linha_1.
-png>] <img/linha_pot.png, id=256, 1179.65718pt x 554.82281pt>
+png>] <img/linha_pot.png, id=258, 1179.65718pt x 554.82281pt>
 File: img/linha_pot.png Graphic file (type png)
 
 <use img/linha_pot.png>
 Package pdftex.def Info: img/linha_pot.png used on input line 45.
 (pdftex.def)             Requested size: 353.89989pt x 166.44812pt.
- <img/linha_H.png, id=257, 1179.65718pt x 554.82281pt>
+ <img/linha_H.png, id=259, 1179.65718pt x 554.82281pt>
 File: img/linha_H.png Graphic file (type png)
 
 <use img/linha_H.png>
@@ -1432,7 +1435,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [13 <C:/GitHub/FiniteElements-101/Assignments/Assignment_02/Report/img/linha_B.
 png> <C:/GitHub/FiniteElements-101/Assignments/Assignment_02/Report/img/linha_p
 ot.png> <C:/GitHub/FiniteElements-101/Assignments/Assignment_02/Report/img/linh
-a_H.png>] <img/femm2_4.png, id=266, 760.34062pt x 554.07pt>
+a_H.png>] <img/femm2_4.png, id=268, 760.34062pt x 554.07pt>
 File: img/femm2_4.png Graphic file (type png)
 
 <use img/femm2_4.png>
@@ -1507,14 +1510,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [18]
 (C:\GitHub\FiniteElements-101\Assignments\Assignment_02\Report\chapters/assig2/
-2_metod.tex)
+2_metod.tex
+<img/assig2/open_lua_script.png, id=298, 374.90062pt x 345.54094pt>
+File: img/assig2/open_lua_script.png Graphic file (type png)
+
+<use img/assig2/open_lua_script.png>
+Package pdftex.def Info: img/assig2/open_lua_script.png used on input line 10.
+(pdftex.def)             Requested size: 374.8997pt x 345.54008pt.
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[19]
+[19 <C:/GitHub/FiniteElements-101/Assignments/Assignment_02/Report/img/assig2/o
+pen_lua_script.png>]
 (C:\GitHub\FiniteElements-101\Assignments\Assignment_02\Report\chapters/assig2/
 3_resul.tex)
 
@@ -1563,13 +1574,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 9782 strings out of 493921
- 142363 string characters out of 3144873
- 225794 words of memory out of 3000000
- 12657 multiletter control sequences out of 15000+200000
+ 9791 strings out of 493921
+ 142564 string characters out of 3144873
+ 225778 words of memory out of 3000000
+ 12661 multiletter control sequences out of 15000+200000
  33381 words of font info for 46 fonts, out of 3000000 for 9000
  891 hyphenation exceptions out of 8191
- 35i,14n,43p,1609b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,14n,43p,1613b,360s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Biolab\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
 \ectt1200.pk>{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc
 }<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -1584,9 +1595,9 @@ x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86
  2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/urw/helvetic/uhvro8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
 1/urw/symbol/usyr.pfb>
-Output written on master_dissertation.pdf (26 pages, 1307421 bytes).
+Output written on master_dissertation.pdf (26 pages, 1354776 bytes).
 PDF statistics:
- 403 PDF objects out of 1000 (max. 8388607)
- 88 named destinations out of 1000 (max. 500000)
- 193 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 413 PDF objects out of 1000 (max. 8388607)
+ 91 named destinations out of 1000 (max. 500000)
+ 198 words of extra memory for PDF output out of 10000 (max. 10000000)
 

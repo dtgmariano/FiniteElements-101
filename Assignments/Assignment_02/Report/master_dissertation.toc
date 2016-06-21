@@ -21,8 +21,10 @@
 \contentsline {chapter}{\numberline {2}Atividade 2}{17}{chapter.2}
 \contentsline {section}{\numberline {2.1}Introdu\IeC {\c c}\IeC {\~a}o}{18}{section.2.1}
 \contentsline {subsection}{Lua script}{18}{section*.15}
-\contentsline {subsubsection}{Comandos b\IeC {\'a}sicos FEMM-Lua}{18}{section*.16}
+\contentsline {subsection}{Comandos para FEMM-Lua}{18}{section*.16}
 \contentsline {section}{\numberline {2.2}Materiais e M\IeC {\'e}todos}{19}{section.2.2}
+\contentsline {subsection}{Descri\IeC {\c c}\IeC {\~a}o do problema}{19}{section*.17}
+\contentsline {subsection}{Comando para processar arquivo .LUA no FEMM}{19}{section*.18}
 \contentsline {section}{\numberline {2.3}Resultados}{20}{section.2.3}
 \contentsline {section}{\numberline {2.4}Discuss\IeC {\~o}es e Conclus\IeC {\~o}es}{21}{section.2.4}
 \contentsline {chapter}{Refer\IeC {\^e}ncias Bibliogr\IeC {\'a}ficas}{21}{section.2.4}
