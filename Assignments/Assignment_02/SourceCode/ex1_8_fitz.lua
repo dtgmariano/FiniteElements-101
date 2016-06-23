@@ -38,7 +38,6 @@ end
 --%%%%%%%%%%%%%%%%--
 --% Main Program %--
 --%%%%%%%%%%%%%%%%--
-
   clearconsole()
   newdocument(0)
   mi_probdef(0 ,'millimeters','planar','1E-8','4','30',0)
