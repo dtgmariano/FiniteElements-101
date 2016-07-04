@@ -1,0 +1,40 @@
+\select@language {brazil}
+\contentsline {chapter}{Lista de Figuras}{iii}{chapter*.2}
+\contentsline {chapter}{Lista de Tabelas e Quadros}{iv}{chapter*.3}
+\contentsline {chapter}{Lista de Abreviaturas e Siglas}{iv}{chapter*.3}
+\contentsline {chapter}{\numberline {1}Atividade 1}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introdu\IeC {\c c}\IeC {\~a}o}{2}{section.1.1}
+\contentsline {subsection}{Circuitos magn\IeC {\'e}ticos e materias magn\IeC {\'e}ticos}{2}{section*.4}
+\contentsline {section}{\numberline {1.2}Materiais e M\IeC {\'e}todos}{5}{section.1.2}
+\contentsline {subsection}{Descri\IeC {\c c}\IeC {\~a}o do problema}{5}{section*.5}
+\contentsline {subsection}{Ferramenta de elementos finitos: FEMM}{6}{section*.6}
+\contentsline {subsection}{Defini\IeC {\c c}\IeC {\~o}es dos par\IeC {\^a}metros do problema}{6}{section*.7}
+\contentsline {subsection}{C\IeC {\'a}lculo da \IeC {\'a}rea do condutor}{6}{section*.8}
+\contentsline {subsection}{Constru\IeC {\c c}\IeC {\~a}o do circuito magn\IeC {\'e}tico no FEMM}{7}{section*.9}
+\contentsline {subsection}{Defini\IeC {\c c}\IeC {\~a}o dos materiais a serem utilizados}{8}{section*.10}
+\contentsline {subsection}{Defini\IeC {\c c}\IeC {\~a}o dos circuitos}{8}{section*.11}
+\contentsline {subsection}{Condi\IeC {\c c}\IeC {\~o}es de contorno}{10}{section*.12}
+\contentsline {section}{\numberline {1.3}Resultados}{11}{section.1.3}
+\contentsline {subsection}{An\IeC {\'a}lise do fluxo magn\IeC {\'e}tico, potencial e da intensidade de campo a partir de uma linha reta que passa pelo eixo central do circuito magn\IeC {\'e}tico}{12}{section*.13}
+\contentsline {subsubsection}{An\IeC {\'a}lise para a corrente do circuito com m\IeC {\'o}dulo igual a 0.2 [A]}{14}{section*.14}
+\contentsline {section}{\numberline {1.4}Discuss\IeC {\~o}es e Conclus\IeC {\~o}es}{16}{section.1.4}
+\contentsline {chapter}{\numberline {2}Atividade 2}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introdu\IeC {\c c}\IeC {\~a}o}{18}{section.2.1}
+\contentsline {subsection}{Lua script}{18}{section*.15}
+\contentsline {section}{\numberline {2.2}Materiais e M\IeC {\'e}todos}{18}{section.2.2}
+\contentsline {subsection}{Descri\IeC {\c c}\IeC {\~a}o do problema}{18}{section*.16}
+\contentsline {subsection}{Ferramenta de elementos finitos: FEMM}{18}{section*.17}
+\contentsline {subsection}{Comandos para FEMM-Lua}{19}{section*.18}
+\contentsline {subsection}{Ferramenta para processar arquivo .LUA no FEMM}{20}{section*.19}
+\contentsline {section}{\numberline {2.3}Resultados}{20}{section.2.3}
+\contentsline {section}{\numberline {2.4}Discuss\IeC {\~o}es e Conclus\IeC {\~o}es}{22}{section.2.4}
+\contentsline {chapter}{\numberline {3}Atividade 3}{24}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introdu\IeC {\c c}\IeC {\~a}o}{25}{section.3.1}
+\contentsline {subsection}{Fun\IeC {\c c}\IeC {\~o}es para Lua script}{25}{section*.20}
+\contentsline {section}{\numberline {3.2}Materiais e M\IeC {\'e}todos}{25}{section.3.2}
+\contentsline {subsection}{Descri\IeC {\c c}\IeC {\~a}o do problema}{25}{section*.21}
+\contentsline {subsection}{Fun\IeC {\c c}\IeC {\~o}es}{25}{section*.22}
+\contentsline {subsection}{Arquivos}{25}{section*.23}
+\contentsline {section}{\numberline {3.3}Resultados}{25}{section.3.3}
+\contentsline {section}{\numberline {3.4}Discuss\IeC {\~o}es e Conclus\IeC {\~o}es}{25}{section.3.4}
+\contentsline {chapter}{Refer\IeC {\^e}ncias Bibliogr\IeC {\'a}ficas}{25}{section.3.4}
