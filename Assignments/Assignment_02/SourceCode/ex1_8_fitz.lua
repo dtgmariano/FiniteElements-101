@@ -4,74 +4,60 @@
 --% Description: Program to develop functions for LUA script  %--
 --%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%--
 
---%%%%%%%%%%%%%--
---% Functions %--
---%%%%%%%%%%%%%--
-
---function name: draw_square
---input arguments: points
---output arguments: none
-function draw_square(points)
-  --Nodes
-  for i=1, 4 do
-    mi_addnode(points[i][1], points[i][2])
-  end
-
-  --Segments
-  mi_addsegment(points[1][1], points[1][2], points[2][1], points[2][2])
-  mi_addsegment(points[2][1], points[2][2], points[3][1], points[3][2])
-  mi_addsegment(points[3][1], points[3][2], points[4][1], points[4][2])
-  mi_addsegment(points[4][1], points[4][2], points[1][1], points[1][2])
-end
-
---function name: draw_circle
---input arguments: points
---output arguments: none
-function draw_circle(points)
-  for i=1, 2 do
-    mi_addnode(points[i][1], points[i][2])
-  end
-  mi_addarc(points[1][1], points[1][2], points[2][1], points[2][2], 180, 1)
-  mi_addarc(points[2][1], points[2][2], points[1][1], points[1][2], 180, 1)
-end
-
 --%%%%%%%%%%%%%%%%--
 --% Main Program %--
 --%%%%%%%%%%%%%%%%--
   clearconsole()
   newdocument(0)
   mi_probdef(0 ,'millimeters','planar','1E-8','4','30',0)
-  --mi_saveas("study102.fem")
+  --mi_saveas("ex1_8_fitz.fem")
 
   --Drawing Points and Segments
   outerpoints = {{0,0} , {203.2,0}, {203.2,254}, {0,254}}
-  --draw_square(outerpoints)
-  mi_addnode(0    ,   0)
-  mi_addnode(203.2,   0)
-  mi_addnode(203.2, 254)
-  mi_addnode(0    , 254)
-  mi_addsegment(0    ,   0, 203.2,   0)
-  mi_addsegment(203.2,   0, 203.2, 254)
-  mi_addsegment(203.2, 254,     0, 254)
-  mi_addsegment(0    , 254,     0,   0)
+  mi_addnode(outerpoints[1][1], outerpoints[1][2])
+  mi_addnode(outerpoints[2][1], outerpoints[2][2])
+  mi_addnode(outerpoints[3][1], outerpoints[3][2])
+  mi_addnode(outerpoints[4][1], outerpoints[4][2])
+  mi_addsegment(outerpoints[1][1], outerpoints[1][2], outerpoints[2][1], outerpoints[2][2])
+  mi_addsegment(outerpoints[2][1], outerpoints[2][2], outerpoints[3][1], outerpoints[3][2])
+  mi_addsegment(outerpoints[3][1], outerpoints[3][2], outerpoints[4][1], outerpoints[4][2])
+  mi_addsegment(outerpoints[4][1], outerpoints[4][2], outerpoints[1][1], outerpoints[1][2])
 
   innerpoints = {{50.8,50} , {152.4,50}, {152.4,204}, {50.8,204}}
-  --draw_square(innerpoints)
-  mi_addnode(50.8,50)
-  mi_addnode(152.4,50)
-  mi_addnode(152.4,204)
-  mi_addnode(50.8,204)
-  mi_addsegment(50.8,50,152.4,50)
-  mi_addsegment(152.4,50,152.4,204)
-  mi_addsegment(152.4,204,50.8,204)
-  mi_addsegment(50.8,204, 50.8, 50)
+  mi_addnode(innerpoints[1][1], innerpoints[1][2])
+  mi_addnode(innerpoints[2][1], innerpoints[2][2])
+  mi_addnode(innerpoints[3][1], innerpoints[3][2])
+  mi_addnode(innerpoints[4][1], innerpoints[4][2])
+  mi_addsegment(innerpoints[1][1], innerpoints[1][2], innerpoints[2][1], innerpoints[2][2])
+  mi_addsegment(innerpoints[2][1], innerpoints[2][2], innerpoints[3][1], innerpoints[3][2])
+  mi_addsegment(innerpoints[3][1], innerpoints[3][2], innerpoints[4][1], innerpoints[4][2])
+  mi_addsegment(innerpoints[4][1], innerpoints[4][2], innerpoints[1][1], innerpoints[1][2])
 
   coil1 = {{-2,124.5}, {0, 124.5}, {0, 129.5}, {-2, 129.5}}
-  draw_square(coil1)
+  mi_addnode(coil1[1][1], coil1[1][2])
+  mi_addnode(coil1[2][1], coil1[2][2])
+  mi_addnode(coil1[3][1], coil1[3][2])
+  mi_addnode(coil1[4][1], coil1[4][2])
+  mi_addsegment(coil1[1][1], coil1[1][2], coil1[2][1], coil1[2][2])
+  mi_addsegment(coil1[2][1], coil1[2][2], coil1[3][1], coil1[3][2])
+  mi_addsegment(coil1[3][1], coil1[3][2], coil1[4][1], coil1[4][2])
+  mi_addsegment(coil1[4][1], coil1[4][2], coil1[1][1], coil1[1][2])
+
   coil2 = {{50.8,124.5} , {52.8,124.5}, {52.8,129.5}, {50.8,129.5}}
-  draw_square(coil2)
+  mi_addnode(coil2[1][1], coil2[1][2])
+  mi_addnode(coil2[2][1], coil2[2][2])
+  mi_addnode(coil2[3][1], coil2[3][2])
+  mi_addnode(coil2[4][1], coil2[4][2])
+  mi_addsegment(coil2[1][1], coil2[1][2], coil2[2][1], coil2[2][2])
+  mi_addsegment(coil2[2][1], coil2[2][2], coil2[3][1], coil2[3][2])
+  mi_addsegment(coil2[3][1], coil2[3][2], coil2[4][1], coil2[4][2])
+  mi_addsegment(coil2[4][1], coil2[4][2], coil2[1][1], coil2[1][2])
+
   circ = {{-200,127}, {403.2,127}}
-  draw_circle(circ)
+  mi_addnode(circ[1][1], circ[1][2])
+  mi_addnode(circ[2][1], circ[2][2])
+  mi_addarc(circ[1][1], circ[1][2], circ[2][1], circ[2][2], 180, 1)
+  mi_addarc(circ[2][1], circ[2][2], circ[1][1], circ[1][2], 180, 1)
 
   --Condition Border
 	mi_selectsegment(circ[1][1],circ[1][2])
@@ -133,7 +119,7 @@ end
 	messagebox("magcirc.fem as save!!!")
 
 	mi_createmesh()
-	mi_analyze( 1)
+	mi_analyze(1)
 	messagebox("The method of triangles finished")
 
 	mi_loadsolution()

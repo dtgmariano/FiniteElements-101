@@ -9,25 +9,7 @@
 %---------------------------------------------------------------
 \section{Introdução}
 \label{cap2:introducao}
+
 \subsection{Lua script}
 Lua é uma linguagem de script de multiparadigma, pequena, reflexiva e leve, projetada para expandir aplicações em geral, por ser uma linguagem extensível (que une partes de um programa feitas em mais de uma linguagem), para prototipagem e para ser embarcada em softwares complexos, como jogos. Assemelha-se com Python, Ruby e Icon, entre outras. Foi projetada e desenvolvida na PUC-Rio, no Brasil.\\
 A linguagem de extensão LUA foi usada para adicionar recursos de processamento para o programa FEMM. A camada de interação pode executar scripts LUA, selecionado a opção "Open Lua Script" no menu de arquivos do programa. Outra possibilidade é a execução de comandos LUA inseridos em um console próprio para a linguagem LUA. Além das funções inerentes da linguagem, existem funções específicas para o aplicativo FEMM.
-
-\subsection{Comandos para FEMM-Lua}
-\begin{itemize}
-  \item \textbf{clearconsole()}: Limpa a janela de saída;
-  \item \textbf{newdocument(doctype)}: Cria um novo documento pré-processador;
-  \item \textbf{print()}: Comando de saída para envio de mensagem;
-  \item \textbf{quit()}: Fecha todos os documentos e sai da camada de interação;
-\end{itemize}
-
-Os comandos para adicionar/remover objetos utilizados são:
-\begin{itemize}
-  \item \textbf{mi\_addnode(x,y)}: Adiciona um nó na coordenada x,y.
-  \item \textbf{mi\_addsegment(x1,y1,x2,y2)}: Adiciona um segmento de linha entre os nós localizados em (x1,y1) e (x2,y2).
-  \item \textbf{mi\_addblocklabel(x,y)}: Adiciona um bloco localizado na posição (x,y).
-\end{itemize}
-
-\begin{itemize}
-  \item \textbf{mi\_probdeb()}: definições do problema (Frequência, unidade, tipo do problema, precisão, entre outros.);
-\end{itemize}
