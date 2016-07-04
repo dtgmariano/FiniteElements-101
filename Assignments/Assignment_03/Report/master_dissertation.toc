@@ -34,7 +34,7 @@
 \contentsline {section}{\numberline {3.2}Materiais e M\IeC {\'e}todos}{25}{section.3.2}
 \contentsline {subsection}{Descri\IeC {\c c}\IeC {\~a}o do problema}{25}{section*.21}
 \contentsline {subsection}{Fun\IeC {\c c}\IeC {\~o}es}{25}{section*.22}
-\contentsline {subsection}{Arquivos}{25}{section*.23}
-\contentsline {section}{\numberline {3.3}Resultados}{25}{section.3.3}
-\contentsline {section}{\numberline {3.4}Discuss\IeC {\~o}es e Conclus\IeC {\~o}es}{25}{section.3.4}
-\contentsline {chapter}{Refer\IeC {\^e}ncias Bibliogr\IeC {\'a}ficas}{25}{section.3.4}
+\contentsline {subsection}{Arquivos}{28}{section*.31}
+\contentsline {section}{\numberline {3.3}Resultados}{28}{section.3.3}
+\contentsline {section}{\numberline {3.4}Discuss\IeC {\~o}es e Conclus\IeC {\~o}es}{28}{section.3.4}
+\contentsline {chapter}{Refer\IeC {\^e}ncias Bibliogr\IeC {\'a}ficas}{28}{section.3.4}
