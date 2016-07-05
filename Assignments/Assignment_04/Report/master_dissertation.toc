@@ -39,7 +39,7 @@
 \contentsline {section}{\numberline {3.4}Discuss\IeC {\~o}es e Conclus\IeC {\~o}es}{28}{section.3.4}
 \contentsline {chapter}{\numberline {4}M\IeC {\'a}quina rotativa: Aplica\IeC {\c c}\IeC {\~a}o com script LUA}{29}{chapter.4}
 \contentsline {section}{\numberline {4.1}Introdu\IeC {\c c}\IeC {\~a}o}{29}{section.4.1}
-\contentsline {section}{\numberline {4.2}Materiais e M\IeC {\'e}todos}{29}{section.4.2}
-\contentsline {section}{\numberline {4.3}Resultados}{30}{section.4.3}
-\contentsline {section}{\numberline {4.4}Discuss\IeC {\~o}es e Conclus\IeC {\~o}es}{32}{section.4.4}
-\contentsline {chapter}{Refer\IeC {\^e}ncias Bibliogr\IeC {\'a}ficas}{32}{section.4.4}
+\contentsline {section}{\numberline {4.2}Materiais e M\IeC {\'e}todos}{30}{section.4.2}
+\contentsline {section}{\numberline {4.3}Resultados}{31}{section.4.3}
+\contentsline {section}{\numberline {4.4}Discuss\IeC {\~o}es e Conclus\IeC {\~o}es}{35}{section.4.4}
+\contentsline {chapter}{Refer\IeC {\^e}ncias Bibliogr\IeC {\'a}ficas}{35}{section.4.4}

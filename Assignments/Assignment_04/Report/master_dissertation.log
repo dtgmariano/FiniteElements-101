@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.25)  5 JUL 2016 01:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.25)  5 JUL 2016 01:51
 entering extended mode
 **./master_dissertation.tex
 (master_dissertation.tex
@@ -1114,12 +1114,6 @@ LaTeX Warning: Label `' multiply defined.
 
 LaTeX Warning: Label `' multiply defined.
 
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
 )
 \openout1 = `master_dissertation.aux'.
 
@@ -1338,7 +1332,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 30.
 [2]
-<img/assig1/simple_magnetic_circuit.png, id=238, 689.57625pt x 359.84438pt>
+<img/assig1/simple_magnetic_circuit.png, id=244, 689.57625pt x 359.84438pt>
 File: img/assig1/simple_magnetic_circuit.png Graphic file (type png)
 
 <use img/assig1/simple_magnetic_circuit.png>
@@ -1371,14 +1365,14 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 10.
 
-<img/assig1/ex1_8.png, id=254, 405.76593pt x 327.47343pt>
+<img/assig1/ex1_8.png, id=260, 405.76593pt x 327.47343pt>
 File: img/assig1/ex1_8.png Graphic file (type png)
 
 <use img/assig1/ex1_8.png>
 Package pdftex.def Info: img/assig1/ex1_8.png used on input line 16.
 (pdftex.def)             Requested size: 243.46143pt x 196.48558pt.
 
-<img/assig1/curv_magn.png, id=256, 499.11469pt x 312.41719pt>
+<img/assig1/curv_magn.png, id=262, 499.11469pt x 312.41719pt>
 File: img/assig1/curv_magn.png Graphic file (type png)
 
 <use img/assig1/curv_magn.png>
@@ -1406,14 +1400,14 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 64.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 64.
-[6] <img/assig1/ferram.png, id=281, 377.91188pt x 22.58438pt>
+[6] <img/assig1/ferram.png, id=287, 377.91188pt x 22.58438pt>
 File: img/assig1/ferram.png Graphic file (type png)
 
 <use img/assig1/ferram.png>
 Package pdftex.def Info: img/assig1/ferram.png used on input line 88.
 (pdftex.def)             Requested size: 377.91095pt x 22.5843pt.
 
-<img/assig1/circ_mag1.png, id=282, 273.27094pt x 289.08pt>
+<img/assig1/circ_mag1.png, id=288, 273.27094pt x 289.08pt>
 File: img/assig1/circ_mag1.png Graphic file (type png)
 
 <use img/assig1/circ_mag1.png>
@@ -1431,7 +1425,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 99.
 [7 <./img/assig1/ferram.png>]
-<img/assig1/circ_1.png, id=294, 229.60782pt x 283.0575pt>
+<img/assig1/circ_1.png, id=300, 229.60782pt x 283.0575pt>
 File: img/assig1/circ_1.png Graphic file (type png)
 
 <use img/assig1/circ_1.png>
@@ -1449,7 +1443,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 129.
 [8 <./img/assig1/circ_mag1.png>]
-<img/assig1/circ_2.png, id=302, 210.03468pt x 262.73157pt>
+<img/assig1/circ_2.png, id=308, 210.03468pt x 262.73157pt>
 File: img/assig1/circ_2.png Graphic file (type png)
 
 <use img/assig1/circ_2.png>
@@ -1467,7 +1461,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 139.
 [9 <./img/assig1/circ_1.png> <./img/assig1/circ_2.png>]
-<img/assig1/circ_mag.png, id=309, 567.62062pt x 543.53062pt>
+<img/assig1/circ_mag.png, id=315, 567.62062pt x 543.53062pt>
 File: img/assig1/circ_mag.png Graphic file (type png)
 
 <use img/assig1/circ_mag.png>
@@ -1488,14 +1482,14 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 9.
 
-<img/assig1/femm_2.png, id=315, 517.18219pt x 523.20468pt>
+<img/assig1/femm_2.png, id=321, 517.18219pt x 523.20468pt>
 File: img/assig1/femm_2.png Graphic file (type png)
 
 <use img/assig1/femm_2.png>
 Package pdftex.def Info: img/assig1/femm_2.png used on input line 13.
 (pdftex.def)             Requested size: 258.59045pt x 261.6017pt.
 
-<img/assig1/femm_4.png, id=316, 734.745pt x 530.73282pt>
+<img/assig1/femm_4.png, id=322, 734.745pt x 530.73282pt>
 File: img/assig1/femm_4.png Graphic file (type png)
 
 <use img/assig1/femm_4.png>
@@ -1513,14 +1507,14 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 28.
 [11 <./img/assig1/femm_2.png> <./img/assig1/femm_4.png>]
-<img/assig1/linha_1.png, id=325, 508.90125pt x 522.45187pt>
+<img/assig1/linha_1.png, id=331, 508.90125pt x 522.45187pt>
 File: img/assig1/linha_1.png Graphic file (type png)
 
 <use img/assig1/linha_1.png>
 Package pdftex.def Info: img/assig1/linha_1.png used on input line 31.
 (pdftex.def)             Requested size: 330.78189pt x 339.58969pt.
 
-<img/assig1/linha_B.png, id=326, 1179.65718pt x 554.82281pt>
+<img/assig1/linha_B.png, id=332, 1179.65718pt x 554.82281pt>
 File: img/assig1/linha_B.png Graphic file (type png)
 
 <use img/assig1/linha_B.png>
@@ -1538,14 +1532,14 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 42.
 [12 <./img/assig1/linha_1.png>]
-<img/assig1/linha_pot.png, id=332, 1179.65718pt x 554.82281pt>
+<img/assig1/linha_pot.png, id=338, 1179.65718pt x 554.82281pt>
 File: img/assig1/linha_pot.png Graphic file (type png)
 
 <use img/assig1/linha_pot.png>
 Package pdftex.def Info: img/assig1/linha_pot.png used on input line 45.
 (pdftex.def)             Requested size: 353.89989pt x 166.44812pt.
 
-<img/assig1/linha_H.png, id=333, 1179.65718pt x 554.82281pt>
+<img/assig1/linha_H.png, id=339, 1179.65718pt x 554.82281pt>
 File: img/assig1/linha_H.png Graphic file (type png)
 
 <use img/assig1/linha_H.png>
@@ -1563,7 +1557,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 59.
 [13 <./img/assig1/linha_B.png> <./img/assig1/linha_pot.png> <./img/assig1/linha
-_H.png>] <img/assig1/femm2_4.png, id=343, 760.34062pt x 554.07pt>
+_H.png>] <img/assig1/femm2_4.png, id=349, 760.34062pt x 554.07pt>
 File: img/assig1/femm2_4.png Graphic file (type png)
 
 <use img/assig1/femm2_4.png>
@@ -1663,7 +1657,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 16.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 16.
-[18] <img/assig2/open_lua_script.png, id=375, 374.90062pt x 345.54094pt>
+[18] <img/assig2/open_lua_script.png, id=381, 374.90062pt x 345.54094pt>
 File: img/assig2/open_lua_script.png Graphic file (type png)
 
 <use img/assig2/open_lua_script.png>
@@ -1687,7 +1681,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 8.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 8.
-[19] <img/assig2/results_1.png, id=382, 568.37344pt x 571.38469pt>
+[19] <img/assig2/results_1.png, id=388, 568.37344pt x 571.38469pt>
 File: img/assig2/results_1.png Graphic file (type png)
 
 <use img/assig2/results_1.png>
@@ -1705,7 +1699,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 23.
 [20 <./img/assig2/open_lua_script.png>]
-<img/assig2/results_2.png, id=388, 402.75468pt x 639.13782pt>
+<img/assig2/results_2.png, id=394, 402.75468pt x 639.13782pt>
 File: img/assig2/results_2.png Graphic file (type png)
 
 <use img/assig2/results_2.png>
@@ -1793,7 +1787,7 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 67.
 [26]
-<img/assig3/main_program_subprograms.png, id=429, 333.49594pt x 299.61937pt>
+<img/assig3/main_program_subprograms.png, id=435, 333.49594pt x 299.61937pt>
 File: img/assig3/main_program_subprograms.png Graphic file (type png)
 
 <use img/assig3/main_program_subprograms.png>
@@ -1836,26 +1830,57 @@ Package babel Info: Redefining portuges shorthand "|
 (chapters/assig4/1_intro.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 10.
+
+<img/assig4/ger_sinc_3ph.png, id=452, 413.29407pt x 298.86656pt>
+File: img/assig4/ger_sinc_3ph.png Graphic file (type png)
+
+<use img/assig4/ger_sinc_3ph.png>
+Package pdftex.def Info: img/assig4/ger_sinc_3ph.png used on input line 19.
+(pdftex.def)             Requested size: 371.96121pt x 268.9774pt.
 ) (chapters/assig4/2_metod.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+[29
+
+]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
-<img/assig4/ideal_synchronous_machine.png, id=445, 537.50812pt x 405.76593pt>
+<img/assig4/ideal_synchronous_machine.png, id=459, 537.50812pt x 405.76593pt>
 File: img/assig4/ideal_synchronous_machine.png Graphic file (type png)
 
 <use img/assig4/ideal_synchronous_machine.png>
 Package pdftex.def Info: img/assig4/ideal_synchronous_machine.png used on input
- line 4.
+ line 5.
 (pdftex.def)             Requested size: 376.25311pt x 284.03421pt.
 ) (chapters/assig4/3_resul.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 1.
+[30 <./img/assig4/ger_sinc_3ph.png>]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 
-<img/assig4/femm_des.png, id=446, 539.76656pt x 466.74374pt>
+<img/assig4/femm_des.png, id=466, 539.76656pt x 466.74374pt>
 File: img/assig4/femm_des.png Graphic file (type png)
 
 <use img/assig4/femm_des.png>
-Package pdftex.def Info: img/assig4/femm_des.png used on input line 4.
+Package pdftex.def Info: img/assig4/femm_des.png used on input line 19.
 (pdftex.def)             Requested size: 323.86243pt x 280.0484pt.
 
 
@@ -1865,44 +1890,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 8.
+(babel)             in language  on input line 23.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 8.
-[29
-
- <./img/assig4/ideal_synchronous_machine.png>]
-<img/assig4/triang.png, id=451, 472.01344pt x 422.32782pt>
+(babel)             in language  on input line 23.
+[31 <./img/assig4/ideal_synchronous_machine.png>]
+<img/assig4/triang.png, id=472, 472.01344pt x 422.32782pt>
 File: img/assig4/triang.png Graphic file (type png)
 
 <use img/assig4/triang.png>
-Package pdftex.def Info: img/assig4/triang.png used on input line 11.
+Package pdftex.def Info: img/assig4/triang.png used on input line 26.
 (pdftex.def)             Requested size: 330.40715pt x 295.62746pt.
 
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 15.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 15.
-[30 <./img/assig4/femm_des.png>]
-<img/assig4/femm_f.png, id=456, 561.59813pt x 425.33907pt>
+<img/assig4/femm_f.png, id=473, 561.59813pt x 425.33907pt>
 File: img/assig4/femm_f.png Graphic file (type png)
 
 <use img/assig4/femm_f.png>
-Package pdftex.def Info: img/assig4/femm_f.png used on input line 18.
-(pdftex.def)             Requested size: 224.63527pt x 170.1326pt.
+Package pdftex.def Info: img/assig4/femm_f.png used on input line 33.
+(pdftex.def)             Requested size: 393.11601pt x 297.7353pt.
 
-<img/assig4/femm_grafs.png, id=457, 805.50937pt x 1290.32062pt>
-File: img/assig4/femm_grafs.png Graphic file (type png)
-
-<use img/assig4/femm_grafs.png>
-Package pdftex.def Info: img/assig4/femm_grafs.png used on input line 25.
-(pdftex.def)             Requested size: 322.19803pt x 516.11911pt.
-) (chapters/assig4/4_dico.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1910,13 +1915,80 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
+(babel)             in language  on input line 38.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1.
-[31 <./img/assig4/triang.png> <./img/assig4/femm_f.png>]
+(babel)             in language  on input line 38.
+[32 <./img/assig4/femm_des.png> <./img/assig4/triang.png>]
+<img/assig4/femm_grafs_b.png, id=481, 805.50937pt x 442.65375pt>
+File: img/assig4/femm_grafs_b.png Graphic file (type png)
+
+<use img/assig4/femm_grafs_b.png>
+Package pdftex.def Info: img/assig4/femm_grafs_b.png used on input line 42.
+(pdftex.def)             Requested size: 483.30936pt x 265.59428pt.
+
+Overfull \hbox (28.06525pt too wide) in paragraph at lines 42--43
+ [][] 
+ []
+
+<img/assig4/femm_grafs_p.png, id=482, 805.50937pt x 427.5975pt>
+File: img/assig4/femm_grafs_p.png Graphic file (type png)
+
+<use img/assig4/femm_grafs_p.png>
+Package pdftex.def Info: img/assig4/femm_grafs_p.png used on input line 49.
+(pdftex.def)             Requested size: 483.30936pt x 256.56047pt.
+
+Overfull \hbox (28.06525pt too wide) in paragraph at lines 49--50
+ [][] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 53.
+[33 <./img/assig4/femm_f.png> <./img/assig4/femm_grafs_b.png>]
+<img/assig4/femm_grafs_h.png, id=488, 798.73407pt x 435.87843pt>
+File: img/assig4/femm_grafs_h.png Graphic file (type png)
+
+<use img/assig4/femm_grafs_h.png>
+Package pdftex.def Info: img/assig4/femm_grafs_h.png used on input line 56.
+(pdftex.def)             Requested size: 479.24414pt x 261.52907pt.
+
+Overfull \hbox (24.00003pt too wide) in paragraph at lines 56--57
+ [][] 
+ []
+
+) (chapters/assig4/4_dico.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 ))
+Overfull \hbox (5.41928pt too wide) in paragraph at lines 2--82
+\T1/phv/m/n/12 men-tos fi-ni-tos. Os ar-qui-vos ge-ra-dos pelo pro-grama as-sim
+ como esse re-la-tó-rio encontra-
+ []
+
+
+Overfull \hbox (5.20296pt too wide) in paragraph at lines 2--82
+\T1/phv/m/n/12 se dis-po-ní-veis para acesso/download em um re-po-si-tó-rio do 
+GitHub, no en-de-reço [][]$\T1/cmtt/m/n/12 https :$
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 82.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 82.
+[34 <./img/assig4/femm_grafs_p.png> <./img/assig4/femm_grafs_h.png>]
 (postextual/references.tex
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 8.
@@ -1931,7 +2003,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 1.
-[32 <./img/assig4/femm_grafs.png>]))) 
+[35]))) 
 AED: lastpage setting LastPage
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1943,7 +2015,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 88.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 88.
-[33
+[36
 
 ]
 Package babel Info: Redefining portuges shorthand "|
@@ -1962,10 +2034,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
  ) 
 Here is how much of TeX's memory you used:
- 10026 strings out of 493634
- 144299 string characters out of 3141310
- 235734 words of memory out of 3000000
- 12913 multiletter control sequences out of 15000+200000
+ 10056 strings out of 493634
+ 144891 string characters out of 3141310
+ 236123 words of memory out of 3000000
+ 12933 multiletter control sequences out of 15000+200000
  33381 words of font info for 46 fonts, out of 3000000 for 9000
  1075 hyphenation exceptions out of 8191
  35i,14n,43p,1615b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1983,9 +2055,9 @@ x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86
  2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/urw/helvetic/uhvro8a.pfb><C:/Users/Daniel/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/urw/symbol/usyr.pfb>
-Output written on master_dissertation.pdf (39 pages, 2536708 bytes).
+Output written on master_dissertation.pdf (42 pages, 2624023 bytes).
 PDF statistics:
- 578 PDF objects out of 1000 (max. 8388607)
- 135 named destinations out of 1000 (max. 500000)
- 318 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 611 PDF objects out of 1000 (max. 8388607)
+ 142 named destinations out of 1000 (max. 500000)
+ 333 words of extra memory for PDF output out of 10000 (max. 10000000)
 
