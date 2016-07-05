@@ -1,7 +1,7 @@
 \select@language {brazil}
-\contentsline {chapter}{Lista de Figuras}{iii}{chapter*.2}
-\contentsline {chapter}{Lista de Tabelas e Quadros}{iv}{chapter*.3}
-\contentsline {chapter}{Lista de Abreviaturas e Siglas}{iv}{chapter*.3}
+\contentsline {chapter}{Lista de Figuras}{v}{chapter*.2}
+\contentsline {chapter}{Lista de Tabelas e Quadros}{vi}{chapter*.3}
+\contentsline {chapter}{Lista de Abreviaturas e Siglas}{vi}{chapter*.3}
 \contentsline {chapter}{\numberline {1}Circuitos magn\IeC {\'e}ticos utilizando a ferramenta FEMM}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Introdu\IeC {\c c}\IeC {\~a}o}{2}{section.1.1}
 \contentsline {subsection}{Circuitos magn\IeC {\'e}ticos e materias magn\IeC {\'e}ticos}{2}{section*.4}
@@ -37,4 +37,9 @@
 \contentsline {subsection}{Arquivos}{27}{section*.31}
 \contentsline {section}{\numberline {3.3}Resultados}{27}{section.3.3}
 \contentsline {section}{\numberline {3.4}Discuss\IeC {\~o}es e Conclus\IeC {\~o}es}{28}{section.3.4}
-\contentsline {chapter}{Refer\IeC {\^e}ncias Bibliogr\IeC {\'a}ficas}{28}{section.3.4}
+\contentsline {chapter}{\numberline {4}M\IeC {\'a}quina rotativa: Aplica\IeC {\c c}\IeC {\~a}o com script LUA}{29}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introdu\IeC {\c c}\IeC {\~a}o}{29}{section.4.1}
+\contentsline {section}{\numberline {4.2}Materiais e M\IeC {\'e}todos}{29}{section.4.2}
+\contentsline {section}{\numberline {4.3}Resultados}{30}{section.4.3}
+\contentsline {section}{\numberline {4.4}Discuss\IeC {\~o}es e Conclus\IeC {\~o}es}{32}{section.4.4}
+\contentsline {chapter}{Refer\IeC {\^e}ncias Bibliogr\IeC {\'a}ficas}{32}{section.4.4}
