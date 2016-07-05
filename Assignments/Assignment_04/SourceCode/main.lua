@@ -4,12 +4,12 @@
 --% Description:                                              %--
 --%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%--
 
---dofile('Functions/blocks.lua')
---dofile('Functions/circuit.lua')
+dofile('Library/blocks.lua')
+dofile('Library/circuit.lua')
 dofile('Library/drawing.lua')
---dofile('Functions/materials.lua')
---dofile('Functions/mesh.lua')
---dofile('Functions/plots.lua')
+dofile('Library/materials.lua')
+dofile('Library/mesh.lua')
+dofile('Library/plots.lua')
 
 --%%%%%%%%%%%%%%%%--
 --% Main Program %--
@@ -20,8 +20,8 @@ dofile('Library/drawing.lua')
   mi_probdef(0 ,'millimeters','planar','1E-8','4','30',0)
   --mi_saveas("study102.fem")
   do_draw()
-  --do_materials()
-  --do_circuit()
-  --do_blocks()
-  --do_mesh()
-  --do_plots()
+  do_materials()
+  do_circuit()
+  do_blocks()
+  do_mesh()
+  do_plots()

@@ -1,0 +1,254 @@
+%\appendix
+\chapter{Manual do Usuário - NI2Blender}
+\label{apendiceA}
+
+\noindent Autores: \\
+\indent Fábio Henrique M. Oliveira e \\
+\indent Grupo GRVA UFU
+
+%\begin{spacing}{1}
+ \noindent \textbf{Dicas:}
+ \begin{itemize}
+  \item \textbf{Mantenha as mãos no campo de visão do sensor;}
+  \item \textbf{Não se aproxime demais do sensor, pois isto prejudica o rastreamento das mãos;}
+  \item \textbf{Procure não fazer movimentos bruscos.}
+ \end{itemize}
+%\end{spacing}
+
+\noindent 1 - Realizar a pose ilustrada na Figura \ref{subfig:pose_psi2}\footnotemark[1] para que o sistema o reconheça como usuário ativo (aguardar \textit{feedback} no ambiente virtual - As mãos virtuais mudarão de cor, para amarelo).
+
+\noindent 2 - Realizar gesto \textit{wave}\footnotemark[2] ilustrado na Figura \ref{subfig:gesto_wave2} para inicializar uma sessão de interação com o sistema (aguardar o \textit{feedback} no ambiente virtual - As mãos virtuais mudarão de cor, para verde).
+
+\begin{figure}[!htbp]
+ \centering
+ \subfigure[Pose ``psi''.]%
+ {\label{subfig:pose_psi2}\includegraphics[width = 0.45\textwidth]{img/apendiceA/psi_pose}}
+ \quad
+ \subfigure[Movimento \textit{wave}.]%
+ {\label{subfig:gesto_wave2}\includegraphics[width = 0.35\textwidth]{img/apendiceA/wave_01}}
+ \quad 
+ \caption{Passos para iniciar uma sessão.}
+ \label{fig:iniciar_sessao2}
+\end{figure}
+
+\footnotetext[1]{Todas as imagens do sistema NI2Blender estão espelhadas.}
+
+\footnotetext[2]{Gesto utilizado para tomar o controle da aplicação para a mão desejada (pode ser usado após o usuário ser reconhecido e também a qualquer momento após este reconhecimento, a fim de passar o controle dos gestos para a mão que o faz).}
+
+\footnotetext[3]{Uma versão rascunho deste manual está disponível em: \url{http://goo.gl/ii5dw}}
+
+\pagebreak
+
+\renewcommand{\tablename}{Quadro}
+
+\begin{table}[!htbp]
+\caption{\textit{Feedback} visual do sistema através das mãos.}
+\label{tab:significado_cor_maos}
+\begin{center}
+\begin{tabular}{| >{\centering}m{2.8cm} | p{12cm} |}
+\hline
+
+\cellcolor[gray]{0.9} \textbf{Cor das mãos} & 
+\centering \cellcolor[gray]{0.9} \textbf{Significado}
+\tabularnewline
+\hline
+
+\includegraphics[width = 0.16\textwidth]{img/apendiceA/mao_vermelha}\\Vermelha & 
+- Sistema inicializado, porém nenhum usuário foi detectado.
+
+- Para calibrar, o usuário precisa manifestar interesse. Neste caso, através da posição corporal ``psi'' (ver Figura \ref{subfig:pose_psi2}).
+\tabularnewline
+\hline
+
+\includegraphics[width = 0.16\textwidth]{img/apendiceA/mao_amarela}\\Amarela & 
+- Usuário reconhecido e calibrado, porém ainda não operando o sistema.
+
+- Para operar, o usuário precisa ``chamar a atenção do sistema'', com o gesto \textit{wave} (ver Figura \ref{subfig:gesto_wave2}).
+\tabularnewline
+\hline
+
+\includegraphics[width = 0.16\textwidth]{img/apendiceA/mao_verde}\\Verde & 
+- Sistema operando e capturando os gestos e posições do usuário.
+\tabularnewline
+\hline
+
+\includegraphics[width = 0.16\textwidth]{img/apendiceA/mao_azul}\\Azul & 
+- Sinaliza que uma operação está em andamento e qual mão está responsável/envolvida na mesma.
+\tabularnewline
+\hline
+
+\end{tabular}
+\end{center}
+\end{table}
+
+\begin{table}[!htbp]
+\caption{Instruções para aplicar \textit{Zoom}/\textit{Pan} na visão da cena.}
+\label{tab:instrucoes_zoom_pan}
+\begin{center}
+\begin{tabular}{| p{14cm} |}
+\hline
+
+\begin{center}
+\includegraphics[width = 0.7\textwidth]{img/apendiceA/zoom_pan_scene}
+\end{center}
+
+- Posicionar as mãos conforme a Figura 1 e manter por \textasciitilde 1.5 segundos (a mão direita ficará azul, indicando que a pose foi reconhecida).
+
+- Movimentar a mão direita conforme o movimento que se deseja executar no ambiente virtual. A Figura 2 e 3 exemplificam, respectivamente, os movimentos para \textit{zoom} e \textit{pan} na visão da cena.
+
+- Para aplicar as alterações pare as mãos por \textasciitilde 1.5 segundos.
+
+\textbf{Observação:} Para efetuar \textit{zoom/pan}, nenhum objeto pode estar selecionado.
+\tabularnewline
+\hline
+
+\end{tabular}
+\end{center}
+\end{table}
+
+\begin{table}[!htbp]
+\caption{Instruções para aplicar rotação na visão da cena.}
+\label{tab:instrucoes_rotacao}
+\begin{center}
+\begin{tabular}{| p{14cm} |}
+\hline
+
+\begin{center}
+\includegraphics[width = 0.7\textwidth]{img/apendiceA/rotate_scene}
+\end{center}
+
+- Para rotacionar a visão da cena o usuário pode, a qualquer momento, ``tocar'' a extremidade do campo de visão do sensor (conforme as Figuras acima).
+
+\textbf{Observação:} Apenas no caso em que a mão está acima da cabeça do usuário, não é requerido que o mesmo ``toque'' a extremidade superior do campo de visão do sensor.
+\tabularnewline
+\hline
+
+\end{tabular}
+\end{center}
+\end{table}
+
+
+\begin{table}[!htbp]
+\caption{Instruções para selecionar objeto.}
+\label{tab:instrucoes_selecionar_objeto}
+\begin{center}
+\begin{tabular}{| p{14cm} |}
+\hline
+
+\begin{center}
+\includegraphics[width = 0.7\textwidth]{img/apendiceA/selecionar_obj}
+\end{center}
+
+- Para selecionar um objeto posicione a mão virtual sobre o mesmo e efetuar o gesto ``\textit{click}'' (a borda do objeto mudará de cor, caso o gesto seja reconhecido).
+
+\textbf{Observações:} 
+
+- Para desselecionar o objeto clique em qualquer parte vazia da cena. 
+
+- Ocorre, as vezes, do sistema de detecção de gestos passar o controle para a mão esquerda (o NI2Blender usa por padrão a mão direita), para voltar o controle para a mão direita execute o movimento \textit{wave} ilustrado na Figura \ref{subfig:gesto_wave} a partir da mesma.
+\tabularnewline
+\hline
+
+\end{tabular}
+\end{center}
+\end{table}
+
+\begin{table}[!htbp]
+\caption{Instruções para transladar objeto.}
+\label{tab:instrucoes_transladar_objeto}
+\begin{center}
+\begin{tabular}{| p{14cm} |}
+\hline
+
+- Efetuar novamente o gesto ``\textit{click}'' sobre o objeto, a mão virtual direita ficará azul, a partir deste \textit{feedback} o usuário pode movimentar a mão direita que o objeto seguirá tais movimentos.
+
+- Para aplicar a translação pare as mãos por \textasciitilde 1.5 segundos.
+\tabularnewline
+\hline
+
+\end{tabular}
+\end{center}
+\end{table}
+
+\begin{table}[!htbp]
+\caption{Instruções para redimensionar objeto.}
+\label{tab:instrucoes_redimensionar_objeto}
+\begin{center}
+\begin{tabular}{| p{14cm} |}
+\hline
+
+\begin{center}
+\includegraphics[width = 0.7\textwidth]{img/apendiceA/redimensionar_obj}
+\end{center}
+
+- Para redimensionar o objeto o usuário deve tê-lo selecionado previamente.
+
+- O usuário deve posicionar as mãos de acordo com a Figura 1 ou 2 e manter as mãos paradas por \textasciitilde 1.5 segundos.
+
+- Na sequência, realizar o movimento demonstrado na Figura acima.
+
+- Para aplicar as modificações pare as mãos por \textasciitilde 1.5 segundos. 
+
+\textbf{Observações:} Caso nenhum objeto esteja selecionado, o modo de navegação \textit{zoom/pan} será ativado (pois trata-se da mesma posição de ativação).
+
+\tabularnewline
+\hline
+
+\end{tabular}
+\end{center}
+\end{table}
+
+\begin{table}[!htbp]
+\caption{Instruções para rotacionar objeto.}
+\label{tab:instrucoes_rotacionar_objeto}
+\begin{center}
+\begin{tabular}{| p{14cm} |}
+\hline
+
+\begin{center}
+\includegraphics[width = 0.4\textwidth]{img/apendiceA/circle}
+\end{center}
+
+- Para rotacionar o objeto o usuário precisa tê-lo selecionado previamente.
+
+- Então com o gesto de mover a mão em forma de círculo (Figura acima) o modo de rotação de objeto é ativado (a mão virtual direita ficará azul, caso o gesto seja reconhecido).
+
+- Após ativado o modo, basta movimentar a mão direita para cima/baixo ou para a esquerda/direita, que o objeto será rotacionado seguindo os movimentos da mão.
+
+\tabularnewline
+\hline
+
+\end{tabular}
+\end{center}
+\end{table}
+
+\begin{figure}[!htbp]
+ \centering
+ \subfigure[Kinect.]%
+ {\label{subfig:kinect_sensor_coordinates2}\includegraphics[width = 0.39\textwidth]{img/apendiceA/kinect_sensor_coordinates}}
+ \quad
+ \subfigure[Palco do Blender3D sinalizado com as coordenadas.]%
+ {\label{subfig:palco_blender2}\includegraphics[width = 0.55\textwidth]{img/apendiceA/palco_blender2}}
+ \quad 
+ \caption{Sistemas de coordenadas.}
+ \label{fig:coordinates_systems2}
+\end{figure}
+
+%\begin{table}[!htbp]
+%\caption{Sistemas de coordenadas.}
+%\label{tab:sistemas_coordenadas}
+%\begin{center}
+%\begin{tabular}{| p{14cm} |}
+%\hline
+%
+%\begin{center}
+%\includegraphics[width = 0.7\textwidth]{img/apendiceA/sistema_de_coordenadas}
+%\end{center}
+%\tabularnewline
+%\hline
+%
+%\end{tabular}
+%\end{center}
+%\end{table}
+
+\renewcommand{\tablename}{Tabela}

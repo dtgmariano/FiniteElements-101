@@ -1,0 +1,38 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.9.2)  22 JUN 2015 16:24
+entering extended mode
+ %&-line parsing enabled.
+**references.tex
+(./references.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, portuguese, loaded.
+
+! LaTeX Error: \bibname undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \renewcommand{\bibname}
+                           {Referências Bibliográficas}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\bibdata{postextual/bibliography}
+No file references.bbl.
+)
+! Emergency stop.
+<*> references.tex
+                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 495041
+ 156 string characters out of 1181898
+ 45131 words of memory out of 3000000
+ 3289 multiletter control sequences out of 15000+50000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 30 hyphenation exceptions out of 8191
+ 7i,0n,5p,117b,17s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

@@ -1,0 +1,95 @@
+
+%Variables with the thesis description
+
+
+%\titulo{Avaliação do efeito de diferentes técnicas de detecção do onset do sinal EMG na %avaliação da espasticidade pela medida do limiar do reflexo de estiramento tônico}
+\titulo{Relatório 3}
+\title{Report 3}
+\area{Processamento da Informação}
+\pchaveA{EMG} \pchaveB{EEG} \pchaveC{Processamento de Sinais} %Palavras-chave
+\kwordA{EMG} \kwordB{EEG} \kwordC{Signal Processing} %Keywords
+\author{Daniel Teodoro Gonçalves Mariano} %Nome do autor
+\newcommand{\id}{11411EEL011}
+\newcommand{\disc}{Elementos Finitos}
+\newcommand{\prof}{Prof. José Roberto Camacho (PhD)}
+%\author{11411EEL011}
+%\institute{Universidade Federal de Uberlândia}
+\supervisor{Nome do Orientador}
+\appraiserA{Nome do membro da banca 1}
+\appraiserB{Nome do membro da banca 2}
+\year{2016}
+\month{Abril}
+\newcommand{\mes}{Abril}
+\newcommand{\dia}{4}
+\city{Uberlândia}
+\country{Brasil}
+
+
+%pre-textual elements
+\input pretextual/cover
+\pagenumbering{roman}                                           %Enumeration type
+%\input pretextual/folharosto
+%\input pretextual/folhaaprovacao
+
+% Apenas na versão final da dissertação
+%\input pretextual/acknowledgements
+%\input pretextual/epigrafe
+
+%\input pretextual/resumo
+%\input pretextual/abstract
+%\input pretextual/publicacoes
+
+\makeatother
+
+\pagestyle{headings}
+\setcounter{secnumdepth}{1} \setcounter{tocdepth}{1}             %Start enumeration
+\tableofcontents
+%\addcontentsline{toc}{chapter}{Sumário}
+
+\listoffigures
+\addcontentsline{toc}{chapter}{Lista de Figuras}
+
+\renewcommand{\listtablename}{Lista de Tabelas e Quadros}
+\listoftables
+\addcontentsline{toc}{chapter}{Lista de Tabelas e Quadros}
+
+\renewcommand*{\nompreamble}{\markboth{\nomname}{\nomname}}
+\printnomenclature[30mm]
+\addcontentsline{toc}{chapter}{Lista de Abreviaturas e Siglas}
+
+
+\newpage
+\pagestyle{fancyplain}
+\pagenumbering{arabic}
+\renewcommand{\chaptermark}[1]{\markboth{\chaptername\ \thechapter.\ #1}{}}
+\renewcommand{\chaptername}{Atividade}
+%\renewcommand{\chaptermark}[1]{\markboth{\thechapter.\ #1}{}}
+\rhead{\fancyplain{}{\thepage}}
+\chead{}
+\lhead{\fancyplain{}{\textit{\leftmark}}}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+
+%Chapters
+%\input chapters/teste
+\input chapters/assig1/main.tex
+\input chapters/assig2/main.tex
+\input chapters/assig3/main.tex
+%\input chapters/cap5
+%\input chapters/cap6
+
+
+%pos-textual elements
+\input postextual/references
+\renewcommand{\chaptermark}[1]{\markboth{\appendixname\ \thechapter.\ #1}{}}
+\rhead{\fancyplain{}{\thepage}}
+\chead{}
+\lhead{\fancyplain{}{\textit{\leftmark}}}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+%\appendix
+%\input postextual/apendiceA
+
+%\label{LastPage}                                                %Refers to the last page of a document
